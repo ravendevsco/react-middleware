@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.2](https://github.com/ravendevsco/react-middleware/compare/v2.0.1...v2.0.2) (2023-04-25)
+
+
+### Features
+
+* :rocket: ([28dbb72](https://github.com/ravendevsco/react-middleware/commit/28dbb720439a21abef0fe042a9974329e3a50dc0))
+
 ### [2.0.1](https://github.com/ravendevsco/react-middleware/compare/v2.0.0...v2.0.1) (2023-04-25)
 
 

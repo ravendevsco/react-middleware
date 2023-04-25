@@ -1,4 +1,4 @@
-# @ravendevsco/react-middleware
+# @ravendevs/react-middleware
 
 React middleware.
 
@@ -21,5 +21,5 @@ React middleware.
 
 ### Install / uninstall the symlinked package in a project
 
-- npm link @ravendevsco/react-middleware
-- npm unlink --no-save @ravendevsco/react-middleware
+- npm link @ravendevs/react-middleware
+- npm unlink --no-save @ravendevs/react-middleware
